@@ -1,6 +1,5 @@
 {
   "national": [
-    // 2022
     {
       "date": "2022-01-03",
       "name": "New Year's Day"
@@ -45,7 +44,6 @@
       "date": "2022-12-26",
       "name": "Boxing Day"
     },
-    // 2023
     {
       "date": "2023-01-03",
       "name": "New Year's Day"
@@ -90,7 +88,6 @@
       "date": "2023-12-26",
       "name": "Boxing Day"
     },
-    // 2024
     {
       "date": "2024-01-01",
       "name": "New Year's Day"
@@ -137,7 +134,6 @@
     }
   ],
   "regional": [
-    // 2022
     {
       "date": "2022-01-31",
       "name": "Auckland"
@@ -186,7 +182,6 @@
       "date": "2022-11-28",
       "name": "Westland"
     },
-    // 2023
     {
       "date": "2023-01-30",
       "name": "Auckland"
@@ -235,7 +230,6 @@
       "date": "2023-12-04",
       "name": "Westland"
     },
-    // 2024
     {
       "date": "2024-01-29",
       "name": "Auckland"
