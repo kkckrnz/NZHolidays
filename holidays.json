@@ -1,0 +1,288 @@
+{
+  "national": [
+    // 2022
+    {
+      "date": "2022-01-03",
+      "name": "New Year's Day"
+    },
+    {
+      "date": "2022-01-04",
+      "name": "Day after New Year's Day"
+    },
+    {
+      "date": "2022-02-07",
+      "name": "Waitangi Day"
+    },
+    {
+      "date": "2022-04-15",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2022-04-18",
+      "name": "Easter Monday"
+    },
+    {
+      "date": "2022-04-25",
+      "name": "ANZAC Day"
+    },
+    {
+      "date": "2022-06-06",
+      "name": "Queen's Birthday"
+    },
+    {
+      "date": "2022-06-24",
+      "name": "Matariki"
+    },
+    {
+      "date": "2022-10-24",
+      "name": "Labour Day"
+    },
+    {
+      "date": "2022-12-27",
+      "name": "Christmas Day"
+    },
+    {
+      "date": "2022-12-26",
+      "name": "Boxing Day"
+    },
+    // 2023
+    {
+      "date": "2023-01-03",
+      "name": "New Year's Day"
+    },
+    {
+      "date": "2023-01-02",
+      "name": "Day after New Year's Day"
+    },
+    {
+      "date": "2023-02-06",
+      "name": "Waitangi Day"
+    },
+    {
+      "date": "2023-04-07",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2023-04-10",
+      "name": "Easter Monday"
+    },
+    {
+      "date": "2023-04-25",
+      "name": "ANZAC Day"
+    },
+    {
+      "date": "2023-06-05",
+      "name": "Queen's Birthday"
+    },
+    {
+      "date": "2023-07-14",
+      "name": "Matariki"
+    },
+    {
+      "date": "2023-10-23",
+      "name": "Labour Day"
+    },
+    {
+      "date": "2023-12-25",
+      "name": "Christmas Day"
+    },
+    {
+      "date": "2023-12-26",
+      "name": "Boxing Day"
+    },
+    // 2024
+    {
+      "date": "2024-01-01",
+      "name": "New Year's Day"
+    },
+    {
+      "date": "2024-01-02",
+      "name": "Day after New Year's Day"
+    },
+    {
+      "date": "2024-02-06",
+      "name": "Waitangi Day"
+    },
+    {
+      "date": "2024-03-29",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2024-04-01",
+      "name": "Easter Monday"
+    },
+    {
+      "date": "2024-04-25",
+      "name": "ANZAC Day"
+    },
+    {
+      "date": "2024-06-03",
+      "name": "Queen's Birthday"
+    },
+    {
+      "date": "2024-06-28",
+      "name": "Matariki"
+    },
+    {
+      "date": "2024-10-28",
+      "name": "Labour Day"
+    },
+    {
+      "date": "2024-12-25",
+      "name": "Christmas Day"
+    },
+    {
+      "date": "2024-12-26",
+      "name": "Boxing Day"
+    }
+  ],
+  "regional": [
+    // 2022
+    {
+      "date": "2022-01-31",
+      "name": "Auckland"
+    },
+    {
+      "date": "2022-09-26",
+      "name": "Canterbury (South)"
+    },
+    {
+      "date": "2022-11-11",
+      "name": "Canterbury"
+    },
+    {
+      "date": "2022-11-28",
+      "name": "Chathan Islands"
+    },
+    {
+      "date": "2022-10-21",
+      "name": "Hawke's Bay"
+    },
+    {
+      "date": "2022-10-31",
+      "name": "Marlborough"
+    },
+    {
+      "date": "2022-01-31",
+      "name": "Nelson"
+    },
+    {
+      "date": "2022-03-21",
+      "name": "Otago"
+    },
+    {
+      "date": "2022-04-19",
+      "name": "Southland"
+    },
+    {
+      "date": "2022-03-14",
+      "name": "Taranaki"
+    },
+    {
+      "date": "2022-01-24",
+      "name": "Wellington"
+    },
+    {
+      "date": "2022-11-28",
+      "name": "Westland"
+    },
+    // 2023
+    {
+      "date": "2023-01-30",
+      "name": "Auckland"
+    },
+    {
+      "date": "2023-09-25",
+      "name": "Canterbury (South)"
+    },
+    {
+      "date": "2023-11-17",
+      "name": "Canterbury"
+    },
+    {
+      "date": "2023-11-27",
+      "name": "Chathan Islands"
+    },
+    {
+      "date": "2023-10-20",
+      "name": "Hawke's Bay"
+    },
+    {
+      "date": "2023-10-30",
+      "name": "Marlborough"
+    },
+    {
+      "date": "2023-01-30",
+      "name": "Nelson"
+    },
+    {
+      "date": "2023-03-20",
+      "name": "Otago"
+    },
+    {
+      "date": "2023-04-11",
+      "name": "Southland"
+    },
+    {
+      "date": "2023-03-13",
+      "name": "Taranaki"
+    },
+    {
+      "date": "2023-01-23",
+      "name": "Wellington"
+    },
+    {
+      "date": "2023-12-04",
+      "name": "Westland"
+    },
+    // 2024
+    {
+      "date": "2024-01-29",
+      "name": "Auckland"
+    },
+    {
+      "date": "2024-09-23",
+      "name": "Canterbury (South)"
+    },
+    {
+      "date": "2024-11-15",
+      "name": "Canterbury"
+    },
+    {
+      "date": "2024-12-02",
+      "name": "Chathan Islands"
+    },
+    {
+      "date": "2024-10-25",
+      "name": "Hawke's Bay"
+    },
+    {
+      "date": "2024-11-04",
+      "name": "Marlborough"
+    },
+    {
+      "date": "2024-01-29",
+      "name": "Nelson"
+    },
+    {
+      "date": "2024-03-25",
+      "name": "Otago"
+    },
+    {
+      "date": "2024-04-02",
+      "name": "Southland"
+    },
+    {
+      "date": "2024-03-11",
+      "name": "Taranaki"
+    },
+    {
+      "date": "2024-01-22",
+      "name": "Wellington"
+    },
+    {
+      "date": "2024-12-02",
+      "name": "Westland"
+    }
+  ]
+}
