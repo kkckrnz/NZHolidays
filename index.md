@@ -1,6 +1,6 @@
-# New Zealand public holidays and anniversary dates
+# New Zealand Holidays
 
--   from 2022 to 2024
+Observed holidays from 2022 to 2024
 
 ## National public holidays
 
